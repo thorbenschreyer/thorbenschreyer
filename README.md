@@ -1,41 +1,137 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Thorben</h1>
-- 🔭 I’m currently working on **El Pollo Loco**
-- 🌱 I’m currently learning **TypeScript, Angular, N8N, Python, Django, DRF**
+<h1 align="center">🚀 Thorben Schreyer</h1>
 
-- 📫 How to reach me **thorben.schreyer@web.de**
-- 👨‍💻 All of my projects are available at **https://github.com/thorbenschreyer**
-
-<div> <a href="https://github.com/thorbenschreyer" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:thorben.schreyer@web.de"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/thorben.schreyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="thorben.schreyer" height="30" width="40" /></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/angular.svg" alt="Angular" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/django.svg" alt="Django" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+<p align="center">
+💻 <b>Aspiring Fullstack Developer</b> | 🚒 <b>Berufsfeuerwehrmann</b><br>
+📍 Mannheim, Germany
 </p>
 
-<h3 align="left">Stars</h3>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thorbenschreyer&theme=" alt="thorbenschreyer" /></p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer+in+Progress;Building+Real+Projects;Turning+Passion+into+Profession" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/thorbenschreyer">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thorbenschreyer&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thorbenschreyer&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thorbenschreyer&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thorbenschreyer&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thorbenschreyer&theme=2077" height="180em" />
-</div>
+<hr>
+
+<h2>🧑‍💻 About Me</h2>
+
+<p>
+Ich bin angehender Fullstack Developer mit einem klaren Ziel:
+<b>den Einstieg in die professionelle Softwareentwicklung.</b>
+</p>
+
+<ul>
+<li>🔥 Praxisorientiertes Lernen durch eigene Projekte</li>
+<li>🚒 Stressresistenz & Teamfähigkeit durch den Feuerwehrdienst</li>
+<li>🎯 Klarer Fokus auf Weiterentwicklung</li>
+</ul>
+
+<p>
+Ich entwickle kontinuierlich Anwendungen, um meine Fähigkeiten auszubauen und reale Probleme zu lösen.
+</p>
+
+<hr>
+
+<h2>🛠️ Tech Stack</h2>
+
+<h3>💻 Core Skills</h3>
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<h3>⚙️ Tools & Technologien</h3>
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+<h3>📚 Learning Next</h3>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
+
+<hr>
+
+<h2>🚀 Featured Projects</h2>
+
+<h3>🗂️ Join – Kanban Board</h3>
+<p>
+<a href="https://github.com/thorbenschreyer/join-3125">🔗 Repository ansehen</a><br>
+Strukturiertes Task-Management-Tool mit Fokus auf UI-Logik, Drag & Drop und State-Handling.
+</p>
+
+<p><b>Tech:</b> HTML • CSS • JavaScript</p>
+
+---
+
+<h3>🐔 El Pollo Loco – Jump & Run Game</h3>
+<p>
+<a href="https://github.com/thorbenschreyer/el_pollo_loco">🔗 Repository ansehen</a><br>
+Browserbasiertes Jump-and-Run-Spiel mit Fokus auf Game Mechanics, Animationen und objektorientierte Struktur.
+</p>
+
+---
+
+<h3>🔍 PokeIndex – Pokémon Explorer</h3>
+<p>
+<a href="https://github.com/thorbenschreyer/PokeIndex">🔗 Repository ansehen</a><br>
+Dynamische Web-App mit API-Integration und Rendering von Daten.
+</p>
+
+---
+
+<h3>🍳 Kochwelt – Rezeptplattform</h3>
+<p>
+<a href="https://github.com/thorbenschreyer/Kochwelt-2477">🔗 Repository ansehen</a><br>
+Responsive Website mit Fokus auf UI/UX und strukturierte Frontend-Entwicklung.
+</p>
+
+<hr>
+
+<h2>🎯 Current Focus</h2>
+
+<ul>
+<li>🚧 Weiterentwicklung von <b>El Pollo Loco</b></li>
+<li>📈 Aufbau von Fullstack-Projekten</li>
+<li>🧠 Lernen moderner Frameworks</li>
+</ul>
+
+<hr>
+
+<h2>📊 GitHub Analytics</h2>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thorbenschreyer&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thorbenschreyer&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img height="170" src="https://streak-stats.demolab.com?user=thorbenschreyer&theme=tokyonight"/>
+</p>
+
+<hr>
+
+<h2>🌐 Connect with Me</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/thorben-ansgar-schreyer-040977301/">💼 LinkedIn</a><br>
+<a href="https://tas-development.com">🌍 Portfolio</a><br>
+<a href="https://github.com/thorbenschreyer">💻 GitHub</a>
+</p>
+
+<hr>
+
+<h2>⚡ Mindset</h2>
+
+<p align="center">
+<i>„Disziplin schlägt Talent – im Einsatz wie im Code.“</i>
+</p>
+
+<p align="center">
+⭐ <b>Building skills. Creating projects. Becoming a developer.</b>
+</p>
