@@ -1,135 +1,150 @@
+<!-- HEADER -->
+
 <h1 align="center">🚀 Thorben Schreyer</h1>
 
 <p align="center">
-💻 <b>Aspiring Fullstack Developer</b> | 🚒 <b>Berufsfeuerwehrmann</b><br>
-📍 Mannheim, Germany
+  <b>💻 Fullstack Developer in Progress</b> • <b>🚒 Firefighter</b><br>
+  📍 Mannheim, Germany
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer+in+Progress;Building+Real+Projects;Turning+Passion+into+Profession" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Real+Projects;From+Firefighter+to+Developer;Code.+Discipline.+Consistency." />
 </p>
 
-<hr>
+<p align="center">
+  <a href="#-about-me">🇬🇧 English</a> | 
+  <a href="#-über-mich">🇩🇪 Deutsch</a>
+</p>
 
-<h2>🧑‍💻 About Me</h2>
+---
+
+<!-- ENGLISH SECTION -->
+
+<h2 id="-about-me">🇬🇧 About Me</h2>
 
 <p>
-Ich bin angehender Fullstack Developer mit einem klaren Ziel:
-<b>den Einstieg in die professionelle Softwareentwicklung.</b>
+Aspiring Fullstack Developer with a strong goal:  
+<b>turning passion into a professional career.</b>
+</p>
+
+<ul>
+<li>🔥 Learning by building real-world projects</li>
+<li>🚒 Strong teamwork & stress resilience from firefighting</li>
+<li>🎯 Focused on continuous growth</li>
+</ul>
+
+<p>
+I am actively developing applications to improve my skills and build practical experience in software development.
+</p>
+
+---
+
+<h2>🛠️ Tech Stack</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,linux,firebase" /><br><br>
+
+<img src="https://skillicons.dev/icons?i=python,django,typescript,angular" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+</p>
+
+---
+
+<h2>🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%">
+<h3>🗂️ Join – Kanban Board</h3>
+<p>Task management tool with drag & drop and structured UI logic.</p>
+<a href="https://github.com/thorbenschreyer/join-3125">🔗 View Project</a>
+</td>
+
+<td width="50%">
+<h3>🐔 El Pollo Loco</h3>
+<p>Jump & Run game with animations and game mechanics.</p>
+<a href="https://github.com/thorbenschreyer/el_pollo_loco">🔗 View Project</a>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3>🔍 PokeIndex</h3>
+<p>Dynamic Pokémon data explorer using API integration.</p>
+<a href="https://github.com/thorbenschreyer/PokeIndex">🔗 View Project</a>
+</td>
+
+<td width="50%">
+<h3>🍳 Kochwelt</h3>
+<p>Responsive recipe platform focused on UI/UX.</p>
+<a href="https://github.com/thorbenschreyer/Kochwelt-2477">🔗 View Project</a>
+</td>
+</tr>
+</table>
+
+---
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=thorbenschreyer&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thorbenschreyer&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=thorbenschreyer&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<!-- GERMAN SECTION -->
+
+<h2 id="-über-mich">🇩🇪 Über mich</h2>
+
+<p>
+Angehender Fullstack Developer mit dem klaren Ziel:  
+<b>mein Hobby zum Beruf zu machen.</b>
 </p>
 
 <ul>
 <li>🔥 Praxisorientiertes Lernen durch eigene Projekte</li>
-<li>🚒 Stressresistenz & Teamfähigkeit durch den Feuerwehrdienst</li>
-<li>🎯 Klarer Fokus auf Weiterentwicklung</li>
+<li>🚒 Teamfähigkeit & Belastbarkeit durch Feuerwehr</li>
+<li>🎯 Starker Fokus auf Weiterentwicklung</li>
 </ul>
 
 <p>
-Ich entwickle kontinuierlich Anwendungen, um meine Fähigkeiten auszubauen und reale Probleme zu lösen.
-</p>
-
-<hr>
-
-<h2>🛠️ Tech Stack</h2>
-
-<h3>💻 Core Skills</h3>
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<h3>⚙️ Tools & Technologien</h3>
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-<h3>📚 Learning Next</h3>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-</p>
-
-<hr>
-
-<h2>🚀 Featured Projects</h2>
-
-<h3>🗂️ Join – Kanban Board</h3>
-<p>
-<a href="https://github.com/thorbenschreyer/join-3125">🔗 Repository ansehen</a><br>
-Strukturiertes Task-Management-Tool mit Fokus auf UI-Logik, Drag & Drop und State-Handling.
-</p>
-
-<p><b>Tech:</b> HTML • CSS • JavaScript</p>
-
----
-
-<h3>🐔 El Pollo Loco – Jump & Run Game</h3>
-<p>
-<a href="https://github.com/thorbenschreyer/el_pollo_loco">🔗 Repository ansehen</a><br>
-Browserbasiertes Jump-and-Run-Spiel mit Fokus auf Game Mechanics, Animationen und objektorientierte Struktur.
+Ich entwickle aktiv Anwendungen, um meine Fähigkeiten kontinuierlich auszubauen und echte Probleme zu lösen.
 </p>
 
 ---
 
-<h3>🔍 PokeIndex – Pokémon Explorer</h3>
-<p>
-<a href="https://github.com/thorbenschreyer/PokeIndex">🔗 Repository ansehen</a><br>
-Dynamische Web-App mit API-Integration und Rendering von Daten.
-</p>
-
----
-
-<h3>🍳 Kochwelt – Rezeptplattform</h3>
-<p>
-<a href="https://github.com/thorbenschreyer/Kochwelt-2477">🔗 Repository ansehen</a><br>
-Responsive Website mit Fokus auf UI/UX und strukturierte Frontend-Entwicklung.
-</p>
-
-<hr>
-
-<h2>🎯 Current Focus</h2>
+<h2>🎯 Fokus</h2>
 
 <ul>
 <li>🚧 Weiterentwicklung von <b>El Pollo Loco</b></li>
-<li>📈 Aufbau von Fullstack-Projekten</li>
-<li>🧠 Lernen moderner Frameworks</li>
+<li>📈 Aufbau von Fullstack-Skills</li>
+<li>🧠 Lernen moderner Technologien</li>
+<li>🍏 Interesse an Swift & Apple-Ökosystem</li>
 </ul>
 
-<hr>
+---
 
-<h2>📊 GitHub Analytics</h2>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thorbenschreyer&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thorbenschreyer&layout=compact&theme=tokyonight"/>
-</p>
+<h2>🌐 Connect</h2>
 
 <p align="center">
-<img height="170" src="https://streak-stats.demolab.com?user=thorbenschreyer&theme=tokyonight"/>
-</p>
-
-<hr>
-
-<h2>🌐 Connect with Me</h2>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/thorben-ansgar-schreyer-040977301/">💼 LinkedIn</a><br>
-<a href="https://tas-development.com">🌍 Portfolio</a><br>
+<a href="https://www.linkedin.com/in/thorben-ansgar-schreyer-040977301/">💼 LinkedIn</a> • 
+<a href="https://tas-development.com">🌍 Portfolio</a> • 
 <a href="https://github.com/thorbenschreyer">💻 GitHub</a>
 </p>
 
-<hr>
+---
 
 <h2>⚡ Mindset</h2>
 
 <p align="center">
-<i>„Disziplin schlägt Talent – im Einsatz wie im Code.“</i>
+<i>"Discipline beats talent – in emergencies and in code."</i>
 </p>
 
 <p align="center">
