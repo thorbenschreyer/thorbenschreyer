@@ -1,6 +1,10 @@
-<!-- HEADER -->
+<!-- BANNER -->
 
-<h1 align="center">🚀 Thorben Schreyer</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Thorben%20Schreyer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20in%20Progress%20%7C%20Firefighter&descAlignY=55&descAlign=50"/>
+</p>
+
+<!-- HEADER -->
 
 <p align="center">
   <b>💻 Fullstack Developer in Progress</b> • <b>🚒 Firefighter</b><br>
@@ -44,7 +48,7 @@ I am actively developing applications to improve my skills and build practical e
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,git,linux,firebase" /><br><br>
-
+<h2 id="-about-me">In Progress/Leraning</h2>
 <img src="https://skillicons.dev/icons?i=python,django,typescript,angular" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 
@@ -83,19 +87,6 @@ I am actively developing applications to improve my skills and build practical e
 </td>
 </tr>
 </table>
-
----
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thorbenschreyer&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thorbenschreyer&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=thorbenschreyer&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
@@ -150,3 +141,4 @@ Ich entwickle aktiv Anwendungen, um meine Fähigkeiten kontinuierlich auszubauen
 <p align="center">
 ⭐ <b>Building skills. Creating projects. Becoming a developer.</b>
 </p>
+
