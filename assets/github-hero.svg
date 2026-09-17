@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<defs>
+<linearGradient id="brand" x1="0" x2="1"><stop stop-color="#00D37F"/><stop offset="1" stop-color="#146BFF"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071522"/><stop offset=".55" stop-color="#082538"/><stop offset="1" stop-color="#06111d"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="330" rx="20" fill="url(#bg)"/>
+<path d="M0 230 Q160 140 300 220 T600 205 T900 190 T1200 210 V330 H0Z" fill="#081925"/>
+<path d="M0 265 Q150 205 270 250 T560 235 T820 230 T1200 220 V330 H0Z" fill="#06121d"/>
+<path d="M600 -20 C690 70 620 130 730 190" stroke="#00D37F" stroke-width="42" opacity=".13" fill="none" filter="url(#glow)"/>
+<path d="M780 -30 C900 70 790 120 980 205" stroke="#146BFF" stroke-width="55" opacity=".16" fill="none" filter="url(#glow)"/>
+<g transform="translate(54 48) scale(.9)"><g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="18">
+<path d="M74 28 30 70l44 42" stroke="#00D37F"/>
+<path d="M128 18 100 122" stroke="url(#brand)"/>
+<path d="m154 28 44 42-44 42" stroke="#146BFF"/></g></g>
+<text x="260" y="100" fill="#F8FAFC" font-family="Arial,sans-serif" font-size="43" font-weight="700">THORBEN <tspan fill="#12D7E8" font-weight="400">SCHREYER</tspan></text>
+<text x="262" y="139" fill="#F8FAFC" font-family="monospace" font-size="18" letter-spacing="6">FULLSTACK DEVELOPER</text>
+<text x="262" y="178" fill="#AAB5C0" font-family="Arial,sans-serif" font-size="21">Smart code. Clean Design.</text>
+<g font-family="monospace" font-size="16" letter-spacing="3" fill="#F8FAFC">
+<rect x="942" y="55" width="4" height="118" rx="2" fill="url(#brand)"/>
+<text x="962" y="76">IDEAS</text><text x="962" y="105">CODE</text><text x="962" y="134">PEOPLE</text><text x="962" y="163">IMPACT</text>
+</g>
+<rect x="52" y="238" width="1096" height="55" rx="10" fill="#06131e" stroke="#203141"/>
+<text x="75" y="272" font-family="monospace" font-size="16"><tspan fill="#00D37F">&gt; thorben@github:~$ </tspan><tspan fill="#AAB5C0">building real-world applications...</tspan><tspan fill="#F8FAFC"> █</tspan></text>
+</svg>

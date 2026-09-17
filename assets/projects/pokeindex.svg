@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="190" viewBox="0 0 760 190">
+<defs>
+<linearGradient id="brand" x1="0" x2="1"><stop stop-color="#00D37F"/><stop offset="1" stop-color="#146BFF"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071522"/><stop offset=".55" stop-color="#082538"/><stop offset="1" stop-color="#06111d"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs><rect width="760" height="190" rx="18" fill="url(#bg)" stroke="#203141"/>
+<rect x="24" y="24" width="52" height="38" rx="8" fill="#08291f" stroke="#00D37F"/>
+<text x="50" y="49" text-anchor="middle" fill="#00D37F" font-family="monospace" font-size="17">04</text>
+<text x="98" y="53" fill="#F8FAFC" font-family="Arial,sans-serif" font-size="28" font-weight="700">POKEINDEX</text>
+<text x="99" y="80" fill="#AAB5C0" font-family="Arial,sans-serif" font-size="16">API Explorer</text>
+<rect x="98" y="105" width="610" height="1" fill="#203141"/>
+<text x="98" y="137" fill="#12D7E8" font-family="monospace" font-size="14">JavaScript · REST API · CSS</text>
+<text x="98" y="165" fill="#AAB5C0" font-family="monospace" font-size="13">VIEW REPOSITORY  →</text>
+<circle cx="704" cy="46" r="19" fill="none" stroke="#146BFF"/><path d="M696 46h16m-6-6 6 6-6 6" stroke="#F8FAFC" fill="none"/></svg>
